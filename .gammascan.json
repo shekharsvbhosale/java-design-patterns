@@ -15,7 +15,7 @@
 			"dataDir": "C:\\ProgramData\\Gamma\\gamma_data",
 			"modules": {
 				"codeissues": [{
-						"name": "pylint"
+						"name": "pmd"
 					}
 				]
 			}
