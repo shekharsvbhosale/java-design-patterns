@@ -1,0 +1,24 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.97:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "gamma123"
+	},
+	"repositories": [{
+			"repository": {
+				"uid": "c4dd189443c9a51b4074cfd5a3327ce4",
+				"projectName": "WinServer2016-2.98",
+				"sources": {
+					"baseDir": "$WORKSPACE"
+				}
+			},
+			"dataDir": "C:\\ProgramData\\Gamma\\gamma_data",
+			"modules": {
+				"codeissues": [{
+						"name": "pylint"
+					}
+				]
+			}
+		}
+	]
+}
